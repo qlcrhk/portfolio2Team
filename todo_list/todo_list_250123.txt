@@ -1,0 +1,19 @@
+2025_01_23
+공통 : main 와이어프레임 통합
+
+도문영 - 기획서 작성 / main_candidateA 와이어프레임 메인 작성 
+권기영- main_candidateB 와이어프레임 메인 작성
+박성윤- main_candidateC 와이어프레임 메인 작성
+
+내일 할 일
+
+권기영/도문영 - 테블릿 와이어프레임 작성
+박성윤/손승진 - 모바일버전 와이어프레임 작성
+
+이번에도 각각 테블릿 버전과 모바일 버전의 와이어프레임을 작성하고 
+그 중 하나를 선택하고 공동으로 수정및 추가를 하도록 한다.
+
+특이사항
+
+font 추가 
+Delmon Delicate (https://www.dafont.com/delmon-delicate.font) 
